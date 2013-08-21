@@ -1,2 +1,4 @@
 
-A basic sbt file, I use to generate IntelliJ projects for Scala
+Using Spray client 
+
+http://spray.io/
